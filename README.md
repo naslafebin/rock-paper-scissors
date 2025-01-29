@@ -11,7 +11,7 @@ A simple Rock-Paper-Scissors game written in Python.
 
 ## Run the Game
 ```bash
-python game.py
+python main.py
 ```
 
 Enjoy the game!
