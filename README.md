@@ -10,9 +10,10 @@ A simple Rock-Paper-Scissors game written in Python.
 5. The final score is displayed before exiting.
 
 ## Run the Game
-
+```bash
 python game.py
-
+```
 
 Enjoy the game!
+
 
